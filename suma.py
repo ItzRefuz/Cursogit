@@ -1,6 +1,6 @@
-a = 5 
-b =5
+suma = 25
+sumab = 25
 
-c = a + b
+resultado = suma + sumab
 
-print('Hola')
+print('El resultado es: ', resultado)
